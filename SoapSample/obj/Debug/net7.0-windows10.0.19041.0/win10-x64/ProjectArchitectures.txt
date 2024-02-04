@@ -1,0 +1,1 @@
+C:\Users\minh\source\repos\SoapSample\SoapSample\SoapSample.csproj;x64
